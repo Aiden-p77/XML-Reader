@@ -28,5 +28,6 @@ This program is provided to you free of charge.
 
 For any questions or suggestions, you can contact me at:
 
-- Email: [@Email](abolfazl77ka@gmail.com)
-- Instagram: [@Instagram](https://instagram.com/aidenkazemzadeh)
+- [Email](mailto:abolfazl77ka@gmail.com)
+- [Instagram](https://instagram.com/aidenkazemzadeh)
+- [LinkedIn](https://www.linkedin.com/in/aiden-kazemzadeh-19b1a9196)
